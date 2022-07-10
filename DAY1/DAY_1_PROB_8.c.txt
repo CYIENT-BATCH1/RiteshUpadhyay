@@ -1,0 +1,8 @@
+//prob8
+//Consider a character input and find its ASCII value
+
+#include <stdio.h>
+int main(){
+char value = 'o';
+printf("%d",value);
+}
