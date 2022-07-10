@@ -4,8 +4,8 @@
 
 #include <stdio.h>
 int main(){
-int n;
+int n; // take a variable n
 pritnf("enter the number");
-scanf("%d",&n);
+scanf("%d",&n); // take user input
 int value = n%11==0 || n%11==1? printf("special'): printf("nothing");
 }
