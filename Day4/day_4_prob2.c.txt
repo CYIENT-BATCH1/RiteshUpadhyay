@@ -1,0 +1,28 @@
+/*
+RELATIONAL OPERATOR
+
+x=10,y=20,z
+
+1)z= x<y;
+ans:1
+
+2)z= x>y;
+ans:0
+
+3)z=x<=y;
+ans:1
+
+4)z=(x*x-y)>(y*y-x)
+ans:0
+
+5)z=(x*x*x)<(y*x*x)
+ans:1
+
+6)z=((x*y)!=(y*x))
+ans:0
+
+7)z=((x*y)==(y*x))
+ans:1
+*/
+
+1)
